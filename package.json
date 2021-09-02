@@ -1,0 +1,8 @@
+{
+  "name": "monorepo-cra-shared-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:yoophi/monorepo-cra-shared-example.git",
+  "author": "Pyunghyuk Yoo <yoophi@gmail.com>",
+  "license": "MIT"
+}
