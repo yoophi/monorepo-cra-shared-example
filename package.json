@@ -6,6 +6,9 @@
   "author": "Pyunghyuk Yoo <yoophi@gmail.com>",
   "license": "MIT",
   "private": true,
+  "scripts": {
+    "build": "lerna run build"
+  },
   "workspaces": {
     "packages": [
       "packages/*"
