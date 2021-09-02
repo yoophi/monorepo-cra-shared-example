@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:yoophi/monorepo-cra-shared-example.git",
   "author": "Pyunghyuk Yoo <yoophi@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
 }
